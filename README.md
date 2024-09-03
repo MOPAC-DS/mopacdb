@@ -1,5 +1,13 @@
+# MOPAC DB GitHub Repository
+
+## About
+
+The MOPAC DB GitHib repository is a **private** repository that contains information on the structure, access rights, and example Python and R scripts for connecting to the database. 
+
+This repository serves as an empty public facing repository for users to request access. 
+
 ## Request Access
 
-If you would like to request access to this repository, please open a new issue using [this template](https://github.com/mopac-ds/mopacdb/issues/new?template=request-access.md) and fill out the required information.
+If you would like to request access to this repository, please complete [this form](https://forms.office.com/e/0mM8Ysjqeq). Please note that you will require an authenticated Greater London Authority (GLA) email address.
 
 We will review your request and get back to you as soon as possible.
