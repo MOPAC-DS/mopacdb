@@ -2,7 +2,7 @@
 
 ## About
 
-The MOPAC DB GitHib repository is a **private** repository that contains information on the structure, access rights, and example Python and R scripts for connecting to the database. 
+The MOPAC DB GitHib repository is a **private** repository that contains information on the structure, access rights, and example Python and R scripts for connecting to the MOPAC DB -- the centralised data resource for the Mayor's Office for Policing and Crime.
 
 This repository serves as an empty public facing repository for users to request access. 
 
